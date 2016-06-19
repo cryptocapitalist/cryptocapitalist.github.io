@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Assets, Interest Rates, & Market Manias - What Next?
 
